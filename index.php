@@ -8,5 +8,8 @@
 </head>
 <body>
     <?php echo '<p>TrangGucci<p>'; ?>
+    <img src=anh.jpg" alt="Bao
+    <a href="https://www.google.com">google</a>
+    <a href="profile.html">facebook
 </body>/
 </html>
